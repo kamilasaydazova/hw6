@@ -9,6 +9,10 @@
 * б) ![https://github.com/kamilasaydazova/hw6/blob/master/%D0%A0%D0%B5%D0%B4%D0%BA%D0%B8%D0%B5.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D0%A0%D0%B5%D0%B4%D0%BA%D0%B8%D0%B5.PNG )
 ![https://github.com/kamilasaydazova/hw6/blob/master/%D0%BF%D0%B5%D1%85%D0%BE%D0%B2_%D1%80%D0%B5%D0%B4%D0%BA%D0%B8%D0%B5.PNG]( https://github.com/kamilasaydazova/hw6/blob/master/%D0%BF%D0%B5%D1%85%D0%BE%D0%B2_%D1%80%D0%B5%D0%B4%D0%BA%D0%B8%D0%B5.PNG)
 * Для поиска редких слов я использовала функцию Invert order, в случае с текстом Толстого наиболее редкими являются слова на французском ("aber","ablutions","admirable","adore", "age"), единожды упомянутые в речи, что было характерно для того времени (знание французского языка). В рассказе Пехова среди редких слов преобладают имена многочисленных персонажей ("Айболита","Алексей","Али","Алису","антилопу"), с которыми говорит главный герой.
-в) ![]( )
-![]( )
+* в) ![https://github.com/kamilasaydazova/hw6/blob/master/%D0%B2%D0%B5%D1%80%D0%B0.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D0%B2%D0%B5%D1%80%D0%B0.PNG)
+![https://github.com/kamilasaydazova/hw6/blob/master/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%B8%D0%BA.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%B8%D0%BA.PNG)
+![https://github.com/kamilasaydazova/hw6/blob/master/%D0%B4%D0%B2%D0%BE%D1%80.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D0%B4%D0%B2%D0%BE%D1%80.PNG)
+![https://github.com/kamilasaydazova/hw6/blob/master/%D0%BC%D0%B8%D1%80.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D0%BC%D0%B8%D1%80.PNG)
+![https://github.com/kamilasaydazova/hw6/blob/master/%D0%BC%D0%B8%D1%80.PNG]( https://github.com/kamilasaydazova/hw6/blob/master/%D0%BC%D0%B8%D1%80.PNG)
+![https://github.com/kamilasaydazova/hw6/blob/master/%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0.PNG](https://github.com/kamilasaydazova/hw6/blob/master/%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0.PNG)
 ![]( )
